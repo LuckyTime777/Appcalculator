@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    color: brown;
+}
+button{
+    background-color: blue;
+    font-size: 24px;
+    border: none; /* ลบกรอบ */
+    cursor: pointer;/* ให้เมาส์ชีตรงปุ่มเป็นนิ้ว */
+    border-radius: 12px; /* กรอบปุ่มกดวงลี */
+}
+div{
+    text-align: center;
+    
+}
